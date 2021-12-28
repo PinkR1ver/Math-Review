@@ -1,5 +1,6 @@
 # Math Review
 
-1. Calculus
-2. Linear Algorithm
-3. Statistics 
+## Calculus
+## Linear Algorithm
+## Statistics 
+   * WHY DOES THE SAMPLE VARIANCE HAVE N-1 IN THE DENOMINATOR?
