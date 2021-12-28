@@ -4,5 +4,6 @@
 
 if $S_1^2 = \frac{1}{n}\sum_{i=1}^n(X_i - \bar{X})^2$, but </br>
 ![Prove](Picture/Prove.png)
+</br>
 So, if you want to use non-bias estimator of variance, you need use this:
 $$S^2 = \frac{1}{n-1}\sum_{i=1}^n(X_i - \bar{X})^2$$
